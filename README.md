@@ -10,6 +10,10 @@ The focus is on:
 This repository contains **public abstracts and summaries**.
 Full decision documents are published externally.
 
+## Decision Briefings Catalog
+
+→ [Browse all published decision briefings](./briefings/README.md)
+
 ---
 
 ## How to read these briefings
