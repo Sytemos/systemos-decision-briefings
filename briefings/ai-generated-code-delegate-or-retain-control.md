@@ -1,5 +1,7 @@
 # AI-Generated Code: Delegate or Retain Control
 
+This is a public abstract. The full decision brief is available as a PDF.
+
 Engineering leads must decide whether to delegate more coding work to AI tools (including increasingly agentic workflows) or retain tighter human control.
 
 The core issue is not “can AI write code,” but whether the organization can capture routine speed gains without increasing security exposure, technical debt, and compliance/IP risk.
