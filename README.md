@@ -1,54 +1,48 @@
-# SystemOS – Decision Briefings
+# SystemOS Decision Briefings
 
-SystemOS publishes structured decision briefings and operating documents.
+A curated catalog of premium **SystemOS Decision Briefs**.
 
-The focus is on:
-- clarity over noise
-- judgment over information
-- systems over opinions
+Each brief is designed as an executive decision tool:
 
-This repository contains **public abstracts and summaries**.
-Full decision documents are published externally.
-
-## Decision Briefings Catalog
-
-→ [Browse all published decision briefings](./briefings/README.md)
+- Clear judgment (ACT / WATCH / IGNORE)  
+- Operational boundaries (Allowed / Forbidden / Exceptions)  
+- Audit- and incident-ready framing  
+- Copy-paste policy templates for real-world use  
 
 ---
 
-## How to read these briefings
-
-Each briefing follows a consistent structure:
-- Problem framing
-- Evaluation criteria
-- Clear judgment (ignore / watch / act)
-- Key risks and trade-offs
-
-The goal is not to provide more information,  
-but to reduce complexity and decision effort.
+## Available Briefings
 
 ---
 
-## Available briefings
+### Product 1 — AI-Generated Code  
+**Delegate or Retain Control**
 
-> No public abstracts published yet.  
-> Initial briefings will be added here.
+Public abstract:  
+- [AI-Generated Code: Delegate or Retain Control](./ai-generated-code-delegate-or-retain-control.md)
 
----
-
-## Full versions
-
-Complete decision documents are published on:
-
-- **Gumroad** – paid PDFs and bundles  
-- **Etsy** – worksheets and decision templates  
-- **Substack** – essays and briefings  
-
-(Links will be added once the first releases are live.)
+Full Premium PDF (Incident-Weapon Edition):  
+➡️ Available on Gumroad  
 
 ---
 
-## License
+### Product 2 — Agentic Automation  
+**Build Agent Workflows — Keep Humans in the Loop**
 
-All content is © SystemOS.  
-No reuse or redistribution without permission.
+Public abstract:  
+- [Agentic Automation: Humans-in-the-Loop](./agentic-automation-human-in-the-loop.md)
+
+Full Premium PDF (Ultimate Weapon Edition):  
+➡️ Available on Gumroad:  
+https://systemosai.gumroad.com/l/agentic-automation-hitl  
+
+---
+
+## Coming Next
+
+- Product 3 — Passive Funds vs Direct Stock Picking  
+- Product 4 — Corporate AI Stack vs Personal Tools  
+
+---
+
+*SystemOS Decision Briefings — built for professionals who need defensible decisions, not hype.*
